@@ -1,0 +1,5 @@
+npm install -g  json-server  -  para instalar o servidor do json
+
+json-server --watch db.json  -  para rodar o servidor json e criar o arquivo db.jason(não exista)
+
+npm start  -  para rodar toda a aplicação
